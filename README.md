@@ -12,5 +12,5 @@ Junior Java Web Back-End Developer.
 
 
 
-### 📫  How to reach me
+### 📫  Contect
 [![heyshyun@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:heyshyun@gmail.com)](mailto:heyshyun@gmail.com) : heyshyun@gmail.com 
